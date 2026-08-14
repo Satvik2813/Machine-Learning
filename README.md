@@ -6,17 +6,17 @@ Welcome to my Machine Learning portfolio repository! This repository contains a 
 
 Here is a summary of the projects included in this repository:
 
-### 1. [Car Cost Prediction (MLR)](./CarCostPrediction-MLR)
+### 1. [Car Cost Prediction (MLR)](https://github.com/Satvik2813/CarCostPrediction-MLR.git)
 - **Description**: Predict the prices of used cars based on various features such as brand, mileage, engine specs, and year.
 - **Algorithms**: Multiple Linear Regression (MLR).
 - **Techniques**: Data cleaning, feature extraction, One-Hot Encoding, StandardScaler.
 
-### 2. [Crop Yield Prediction](./CropYield-Regularization)
+### 2. [Crop Yield Prediction](https://github.com/Satvik2813/crop-yield-prediction-ridge.git)
 - **Description**: Estimate crop yields across different countries using agricultural and environmental features like rainfall, pesticide usage, and temperature.
 - **Algorithms**: Ridge Regression, Lasso Regression (Regularization).
 - **Techniques**: Log transformation, SimpleImputer, Pipeline, Cross-Validation.
 
-### 3. [Diabetes Prediction (KNN)](./Diabeties_KnnClassifier)
+### 3. [Diabetes Prediction (KNN)](https://github.com/Satvik2813/Diabetes_knnclassifier.git)
 - **Description**: Predict diabetes outcomes using the Pima Indians Diabetes Dataset.
 - **Algorithms**: K-Nearest Neighbors (KNN) Classifier.
 - **Techniques**: Handling zero-values as missing data, GridSearchCV for hyperparameter tuning, ROC-AUC evaluation.
@@ -26,7 +26,7 @@ Here is a summary of the projects included in this repository:
 - **Algorithms**: HDBSCAN (Hierarchical Density-Based Spatial Clustering of Applications with Noise), PCA.
 - **Techniques**: Geospatial data handling, Silhouette Score, Calinski-Harabasz Score.
 
-### 5. [Loan Default Classifier](./LoanDefaultClassifier)
+### 5. [Loan Default Classifier](https://github.com/Satvik2813/Loan-Default-Classifier.git)
 - **Description**: Classify and predict whether a loan applicant will default.
 - **Algorithms**: Classification Algorithms.
 - **Techniques**: Classification metrics, handling class imbalance.
